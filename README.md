@@ -8,13 +8,7 @@ To run this project you need to have the following installed:
 2. [Docker](https://docs.docker.com/get-docker/) version 20
 3. [Docker Compose](https://docs.docker.com/compose/install/) version 1.29
 4. [GNU Make](https://www.gnu.org/software/make/)
-5. [oapi-codegen](https://github.com/deepmap/oapi-codegen)
-
-    Install the latest version with:
-    ```
-    go install github.com/deepmap/oapi-codegen/cmd/oapi-codegen@latest
-    ```
-6. [mock](https://github.com/golang/mock)
+5. [mock](https://github.com/golang/mock)
 
     Install the latest version with:
     ```
